@@ -1,4 +1,3 @@
-[ftfx.txt](https://github.com/user-attachments/files/33523075/ftfx.txt)
 CoreGui = game:GetService("CoreGui")
 
 if CoreGui:findFirstChild("FTFXEXECUTED") then
